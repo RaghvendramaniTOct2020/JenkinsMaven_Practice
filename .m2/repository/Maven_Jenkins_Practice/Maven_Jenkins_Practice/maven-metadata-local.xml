@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>Maven_Jenkins_Practice</groupId>
+  <artifactId>Maven_Jenkins_Practice</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210303013409</lastUpdated>
+  </versioning>
+</metadata>
