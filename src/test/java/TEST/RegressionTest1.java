@@ -6,6 +6,8 @@ public class RegressionTest1 {
 	@Test
 	public void m1() {
 		System.out.println("Regression test m1");
+		System.out.println("Regression test m1");
+
 	}
 	
 	@Test
